@@ -8,3 +8,4 @@ Debug_*
 *.suo
 *.ncb
 *.aps
+/litestep_vc12.VC.VC.opendb
